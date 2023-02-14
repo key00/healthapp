@@ -1,0 +1,279 @@
+[19-Dec-2022 03:40:53 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'aiivdoft_health'@'localhost' (using password: YES) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 9
+[19-Dec-2022 03:42:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'aiivdoft_health'@'localhost' (using password: YES) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 9
+[19-Dec-2022 03:45:01 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'aiivdoft_health'@'localhost' (using password: YES) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 9
+[19-Dec-2022 03:45:26 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'aiivdoft_health'@'localhost' (using password: YES) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 9
+[19-Dec-2022 07:20:44 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:20:47 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:20:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:22:46 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:23:04 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:40:21 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:55:34 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:57:33 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 07:57:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 08:09:06 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 08:15:55 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 08:39:22 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 08:52:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 10:06:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 10:07:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[20-Dec-2022 23:15:18 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[20-Dec-2022 23:15:18 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[21-Dec-2022 01:30:18 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[21-Dec-2022 01:30:18 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[21-Dec-2022 01:54:14 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[21-Dec-2022 01:54:14 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[21-Dec-2022 02:03:02 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[21-Dec-2022 02:03:02 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[21-Dec-2022 03:47:38 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[21-Dec-2022 03:47:38 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[21-Dec-2022 03:47:49 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[21-Dec-2022 03:47:49 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[21-Dec-2022 03:48:12 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[21-Dec-2022 03:48:12 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[21-Dec-2022 03:48:23 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[21-Dec-2022 03:48:23 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[23-Dec-2022 23:35:09 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[23-Dec-2022 23:35:09 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[23-Dec-2022 23:39:21 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[23-Dec-2022 23:39:21 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[26-Dec-2022 06:21:18 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[26-Dec-2022 06:21:18 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[27-Dec-2022 03:03:36 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[27-Dec-2022 03:03:36 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[27-Dec-2022 05:46:41 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[27-Dec-2022 05:46:41 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[27-Dec-2022 10:04:07 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[27-Dec-2022 10:04:07 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[29-Dec-2022 02:21:20 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[29-Dec-2022 02:21:20 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[30-Dec-2022 04:09:01 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[30-Dec-2022 04:09:01 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[02-Jan-2023 05:55:48 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[02-Jan-2023 05:55:48 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[02-Jan-2023 05:55:49 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[02-Jan-2023 05:55:49 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[03-Jan-2023 05:43:47 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[03-Jan-2023 05:43:47 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[03-Jan-2023 11:06:39 America/New_York] PHP Notice:  Undefined variable: api_key in /home/aiiovdft/health.aiiot.website/dashboard/patient/index.php on line 541
+[03-Jan-2023 11:06:39 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/index.php on line 577
+[03-Jan-2023 11:27:56 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[03-Jan-2023 11:27:56 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[03-Jan-2023 11:32:13 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:32:13 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:32:18 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:32:18 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:32:30 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:32:30 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:33:09 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:33:09 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:33:15 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:33:15 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 126
+[03-Jan-2023 11:34:09 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 128
+[03-Jan-2023 11:34:09 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 128
+[03-Jan-2023 11:34:36 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:39 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:45 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:50 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:50 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:52 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:34:52 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:35:33 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:35:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:38:35 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:38:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:40:49 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:40:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:41:27 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:41:27 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:42:59 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:42:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:43:32 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:43:32 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:44:24 America/New_York] PHP Warning:  require_once(vendor/config.php): failed to open stream: No such file or directory in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:44:24 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 2
+[03-Jan-2023 11:44:50 America/New_York] PHP Notice:  Undefined variable: meta_description in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 70
+[03-Jan-2023 11:44:50 America/New_York] PHP Notice:  Undefined variable: meta_keys in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 71
+[03-Jan-2023 11:44:50 America/New_York] PHP Notice:  Undefined variable: meta_title in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 73
+[03-Jan-2023 11:44:50 America/New_York] PHP Notice:  Undefined variable: title_website in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 87
+[03-Jan-2023 11:44:50 America/New_York] PHP Notice:  Undefined variable: api_key in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 319
+[03-Jan-2023 11:44:50 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 355
+[03-Jan-2023 11:45:17 America/New_York] PHP Notice:  Undefined variable: meta_description in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 70
+[03-Jan-2023 11:45:17 America/New_York] PHP Notice:  Undefined variable: meta_keys in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 71
+[03-Jan-2023 11:45:17 America/New_York] PHP Notice:  Undefined variable: meta_title in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 73
+[03-Jan-2023 11:45:17 America/New_York] PHP Notice:  Undefined variable: title_website in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 87
+[03-Jan-2023 11:45:17 America/New_York] PHP Notice:  Undefined variable: api_key in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 237
+[03-Jan-2023 11:45:17 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 355
+[03-Jan-2023 11:45:56 America/New_York] PHP Notice:  Undefined variable: api_key in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 288
+[03-Jan-2023 11:45:56 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 324
+[03-Jan-2023 12:04:18 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 324
+[03-Jan-2023 12:08:37 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 324
+[03-Jan-2023 12:11:10 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 324
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: user_ip in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 191
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: ipType in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 195
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: isp in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 199
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: ipName in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 203
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: city in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 207
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 211
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 214
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: region in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 218
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: country in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 222
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: countryCode in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 222
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: continent in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 226
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 237
+[03-Jan-2023 12:22:18 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 237
+[03-Jan-2023 16:22:01 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 234
+[03-Jan-2023 16:22:07 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 234
+[03-Jan-2023 16:39:40 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:39:40 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:39:43 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:39:43 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:43:21 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:43:21 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:44:50 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:44:50 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:45:40 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:45:40 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:45:52 America/New_York] PHP Notice:  Undefined variable: user_ip_no_get in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 225
+[03-Jan-2023 16:45:52 America/New_York] PHP Notice:  Undefined variable: lat_no_get in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 225
+[03-Jan-2023 16:45:52 America/New_York] PHP Notice:  Undefined variable: lon_no_get in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 225
+[03-Jan-2023 16:47:15 America/New_York] PHP Notice:  Undefined variable: lat_no_get in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 225
+[03-Jan-2023 16:47:15 America/New_York] PHP Notice:  Undefined variable: lon_no_get in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 225
+[03-Jan-2023 16:47:19 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:47:19 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:47:39 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:47:39 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:48:30 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:48:30 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:48:56 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:48:56 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:49:19 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:49:19 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:49:27 America/New_York] PHP Notice:  Undefined variable: lat_no_get in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 225
+[03-Jan-2023 16:49:27 America/New_York] PHP Notice:  Undefined variable: lon_no_get in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 225
+[03-Jan-2023 16:50:53 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:50:53 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:51:13 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:51:13 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:51:52 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:51:52 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:52:13 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:52:13 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:56:24 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:56:24 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:58:02 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:58:02 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 16:58:39 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 274
+[03-Jan-2023 16:58:39 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 274
+[03-Jan-2023 16:58:59 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 256
+[03-Jan-2023 16:58:59 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 256
+[03-Jan-2023 17:00:04 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 237
+[03-Jan-2023 17:00:25 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 214
+[03-Jan-2023 17:00:25 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 214
+[03-Jan-2023 17:01:46 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 233
+[03-Jan-2023 17:01:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 239
+[03-Jan-2023 17:02:04 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 214
+[03-Jan-2023 17:02:04 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 214
+[03-Jan-2023 17:02:31 America/New_York] PHP Notice:  Undefined variable: lat in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 17:02:31 America/New_York] PHP Notice:  Undefined variable: lon in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 307
+[03-Jan-2023 17:38:57 America/New_York] PHP Parse error:  syntax error, unexpected '"https://api.ipdata.co/8.8.8.8' (T_CONSTANT_ENCAPSED_STRING) in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 18
+[03-Jan-2023 17:39:20 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 19
+[03-Jan-2023 18:08:30 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 14
+[03-Jan-2023 19:49:41 America/New_York] PHP Notice:  Undefined variable: meta_description in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 70
+[03-Jan-2023 19:49:41 America/New_York] PHP Notice:  Undefined variable: meta_keys in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 71
+[03-Jan-2023 19:49:41 America/New_York] PHP Notice:  Undefined variable: meta_title in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 73
+[03-Jan-2023 19:49:41 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 342
+[03-Jan-2023 19:51:35 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 438
+[03-Jan-2023 19:52:13 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 439
+[03-Jan-2023 19:53:23 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 435
+[03-Jan-2023 19:55:19 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 440
+[03-Jan-2023 19:55:27 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 440
+[03-Jan-2023 19:55:40 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 434
+[03-Jan-2023 19:56:12 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 408
+[03-Jan-2023 19:56:48 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 408
+[03-Jan-2023 19:57:41 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 354
+[03-Jan-2023 19:58:13 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 408
+[03-Jan-2023 19:58:55 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 368
+[03-Jan-2023 19:58:59 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 368
+[03-Jan-2023 19:59:44 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 368
+[03-Jan-2023 20:00:49 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 346
+[03-Jan-2023 20:01:41 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 306
+[03-Jan-2023 20:02:10 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 306
+[03-Jan-2023 20:02:34 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 368
+[03-Jan-2023 20:03:09 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 354
+[03-Jan-2023 20:04:14 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[03-Jan-2023 20:04:14 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[03-Jan-2023 20:04:42 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 354
+[03-Jan-2023 20:04:43 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[03-Jan-2023 20:04:43 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[03-Jan-2023 20:05:20 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 354
+[03-Jan-2023 20:07:09 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 314
+[03-Jan-2023 20:08:27 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 266
+[03-Jan-2023 20:08:38 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 266
+[03-Jan-2023 20:09:02 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 266
+[03-Jan-2023 20:09:29 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 265
+[03-Jan-2023 20:09:32 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 265
+[03-Jan-2023 20:10:18 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 262
+[03-Jan-2023 20:11:28 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 261
+[03-Jan-2023 20:11:49 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 261
+[03-Jan-2023 20:14:08 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:14:13 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:14:18 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:14:19 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:14:19 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:14:28 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 261
+[03-Jan-2023 20:14:45 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:15:04 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:17:21 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:17:52 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:18:46 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 263
+[03-Jan-2023 20:19:23 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 259
+[03-Jan-2023 20:20:49 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 290
+[03-Jan-2023 20:21:02 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 290
+[03-Jan-2023 20:21:15 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 290
+[03-Jan-2023 20:21:36 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 290
+[03-Jan-2023 20:21:45 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 290
+[03-Jan-2023 20:21:58 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 290
+[03-Jan-2023 20:22:03 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 290
+[03-Jan-2023 20:22:56 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 269
+[03-Jan-2023 20:23:18 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 269
+[03-Jan-2023 20:23:41 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 269
+[03-Jan-2023 20:24:44 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 261
+[03-Jan-2023 20:24:54 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 261
+[03-Jan-2023 20:26:02 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 261
+[03-Jan-2023 20:26:29 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 259
+[03-Jan-2023 20:27:22 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 259
+[03-Jan-2023 20:28:05 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 251
+[03-Jan-2023 20:28:41 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 259
+[03-Jan-2023 20:28:57 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 259
+[03-Jan-2023 20:29:55 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:30:08 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:30:17 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:30:32 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 256
+[03-Jan-2023 20:30:47 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:31:12 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:31:29 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:31:43 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:31:51 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:32:18 America/New_York] PHP Notice:  Undefined variable: ad_here in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 257
+[03-Jan-2023 20:43:32 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 11
+[03-Jan-2023 20:44:18 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 11
+[03-Jan-2023 20:44:42 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 11
+[03-Jan-2023 20:45:07 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/aiiovdft/health.aiiot.website/dashboard/patient/location.php on line 40
+[04-Jan-2023 19:36:56 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[04-Jan-2023 19:36:56 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[04-Jan-2023 19:37:30 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[04-Jan-2023 19:37:30 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[04-Jan-2023 19:59:17 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[04-Jan-2023 19:59:17 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[05-Jan-2023 06:03:23 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[05-Jan-2023 06:03:23 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[07-Jan-2023 03:53:50 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[07-Jan-2023 03:53:50 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[16-Jan-2023 03:39:41 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[16-Jan-2023 03:39:41 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14
+[19-Jan-2023 01:34:10 America/New_York] PHP Notice:  Undefined index: user in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 13
+[19-Jan-2023 01:34:10 America/New_York] PHP Notice:  Undefined index: token in /home/aiiovdft/health.aiiot.website/dashboard/patient/data.php on line 14

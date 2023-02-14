@@ -1,0 +1,7 @@
+[19-Dec-2022 08:53:23 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[19-Dec-2022 08:53:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/aiiovdft/health.aiiot.website/includes/conn.php on line 10
+[20-Dec-2022 09:33:15 America/New_York] PHP Fatal error:  Only variables can be passed by reference in /home/aiiovdft/health.aiiot.website/signup/signup.php on line 33
+[20-Dec-2022 09:36:34 America/New_York] PHP Fatal error:  Only variables can be passed by reference in /home/aiiovdft/health.aiiot.website/signup/signup.php on line 33
+[20-Dec-2022 09:38:20 America/New_York] PHP Fatal error:  Only variables can be passed by reference in /home/aiiovdft/health.aiiot.website/signup/signup.php on line 33
+[20-Dec-2022 09:41:50 America/New_York] PHP Fatal error:  Only variables can be passed by reference in /home/aiiovdft/health.aiiot.website/signup/signup.php on line 33
+[20-Dec-2022 09:56:09 America/New_York] PHP Fatal error:  Only variables can be passed by reference in /home/aiiovdft/health.aiiot.website/signup/signup.php on line 33
