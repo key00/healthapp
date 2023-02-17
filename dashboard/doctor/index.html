@@ -109,7 +109,7 @@
         </nav>
 
        
-        <div class="box-content dashboard active">
+        <div class="box-content main dashboard active">
         
         
           <div
@@ -119,7 +119,7 @@
               flex-wrap: wrap;
               flex-direction: row;
               justify-content: space-around;
-              align-items: stretch;
+              
             "
           >
             <div class="box">
@@ -169,7 +169,7 @@
           </div>
         </div>
 
-        <div class="home dashboard">
+        <div class="box-content home dashboard">
           <div class="sales-boxes">
             <div class="recent-sales">
               <div class="sales-details box">
@@ -257,10 +257,157 @@
               </div>
             </div>
           </div>
+          
         </div>
 
-        <div class="patient dashboard">
-
+        <div class="box-content patient dashboard">
+          <div class="overview-boxes">
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">chills</div>
+                <div class="number chills"></div>
+                <div class="indicator">
+                  <span class="text"> Safe: false</span>
+                </div>
+              </div>
+              <i
+                class="cart"
+                style="font-size: 50px; font-style: initial; font-weight: bold"
+                >❄</i
+              >
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Diastole BP</div>
+                <div class="number dbp"></div>
+                <div class="indicator">
+                  <span class="text">Safe [60 - 80 mm Hg]</span>
+                </div>
+              </div>
+              <i class="fas fa-heart cart two"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Systole BP</div>
+                <div class="number sbp"></div>
+                <div class="indicator">
+                  <span class="text">Safe [90 - 120 mm Hg]</span>
+                </div>
+              </div>
+              <i class="fas fa-heart cart three"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">HeartRate</div>
+                <div class="number heartrate"></div>
+                <div class="indicator">
+                  <span class="text">Safe [60 to 100 beats]</span>
+                </div>
+              </div>
+              <i class="fas fa-heartbeat cart four"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Respiration Rate</div>
+                <div class="number respiration"></div>
+                <div class="indicator">
+                  <span class="text">Safe [12 to 16 breaths/min]</span>
+                </div>
+              </div>
+              <i class="fas fa-lungs cart two"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">SpO2</div>
+                <div class="number spo2"></div>
+                <div class="indicator">
+                  <span class="text">Range [95% or higher]</span>
+                </div>
+              </div>
+              <i class="fas fa-wind cart three"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Blood Group</div>
+                <div class="number bloodg"></div>
+                <div class="indicator">
+                  <span class="text"></span>
+                </div>
+              </div>
+              <i class="fas fa-droplet cart four"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Temperature</div>
+                <div class="number temp"></div>
+                <div class="indicator">
+                  <span class="text">Range [97°F to 99°F]</span>
+                </div>
+              </div>
+              <i class="fa-solid fa-temperature-half cart"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Ambulation</div>
+                <div class="number ambulation"></div>
+                <div class="indicator">
+                  <span class="text">Values possible : True/False</span>
+                </div>
+              </div>
+              <i class="fa-solid fa-face-thermometer"></i>
+              <i class="fas fa-syringe cart three"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Fever History</div>
+                <div class="number fever"></div>
+                <div class="indicator">
+                  <span class="text">Values possible : Yes/No/Other</span>
+                </div>
+              </div>
+              <i class="fas fa-temperature-half cart four"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">BMI</div>
+                <div class="number bmi"></div>
+                <div class="indicator">
+                  <span class="text">Range [18.5 to 24.9]</span>
+                </div>
+              </div>
+              <i class="fas fa-balance-scale cart"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">FiO2</div>
+                <div class="number fio2"></div>
+                <div class="indicator">
+                  <span class="text">Range [50 to 100]</span>
+                </div>
+              </div>
+              <i class="fas fa-lungs cart two"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Emotion</div>
+                <div class="number emotion"></div>
+                <div class="indicator">
+                  <span class="text">Values Possible:happy/neutral/sad</span>
+                </div>
+              </div>
+              <i class="fa-sharp fa-solid fa-face-smile cart two"></i>
+            </div>
+            <div class="box">
+              <div class="right-side">
+                <div class="box-topic">Location</div>
+                <div class="number location"></div>
+                <div class="indicator">
+                  <span class="text">GPS + City</span>
+                </div>
+              </div>
+              <i class="fa-solid fa-location-dot cart two"></i>
+            </div>
+          </div>
         </div>
       
         <div class="schedule dashboard">
@@ -280,7 +427,7 @@
               style="width: 15%; display: block; height: auto; margin: auto"
               border="0"
             />
-            <small class="text-center">Copyright &copy; <span id="year"></span> AI and Robotics
+            <small >Copyright &copy; <span id="year"></span> AI and Robotics
               Institute, NEU</small
             >
           </div>

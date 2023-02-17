@@ -27,13 +27,13 @@ function view() {
 
         if ($(this).hasClass("active")) {
           if ($(this).hasClass("dash")) {
-            $(".box-content.dashboard").addClass("active");
+            $(".box-content.main.dashboard").addClass("active");
           }
           if ($(this).hasClass("home")) {
-            $(".home.dashboard").addClass("active");
+            $("box-content.home.dashboard").addClass("active");
           }
           if ($(this).hasClass("patient")) {
-            $(".patient.dashboard").addClass("active");
+            $(".box-content.patient.dashboard").addClass("active");
           }
           if ($(this).hasClass("schedule")) {
             $(".schedule.dashboard").addClass("active");

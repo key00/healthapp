@@ -115,13 +115,20 @@ li.active {
   transition: all 0.5s ease;
 }
 .sidebar.active ~ .home-section{
-  /* width: calc(100% - 60px); */
-  /* left: 60px; */
   width: calc(100% - 60px);
-  overflow: hidden;
-  left: 61px;
-  top: 80px;
+  left: 60px;
 }
+
+footer{
+  position: relative;
+  width: calc(100% - 240px);
+  left: 240px;
+}
+.sidebar.active ~ footer{
+  width: calc(100% - 60px);
+  left: 60px;
+}
+
 .home-section nav{
   display: flex;
   justify-content: space-between;
@@ -368,6 +375,20 @@ nav .profile-details i{
     left: 220px;
     top: 59px;
   }
+
+  footer{
+    width: calc(100% - 220px);
+    left: 220px;
+  }
+
+  .sidebar.active ~ footer{
+    width: calc(100% - 220px);
+    overflow: hidden;
+    left: 220px;
+    top: 59px;
+    padding: 27px;
+  }
+
   .sidebar.active ~ .home-section{
     width: calc(100% - 220px);
     overflow: hidden;
