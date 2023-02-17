@@ -30,7 +30,7 @@ function view() {
             $(".box-content.main.dashboard").addClass("active");
           }
           if ($(this).hasClass("home")) {
-            $("box-content.home.dashboard").addClass("active");
+            $(".box-content.home.dashboard").addClass("active");
           }
           if ($(this).hasClass("patient")) {
             $(".box-content.patient.dashboard").addClass("active");
