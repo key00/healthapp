@@ -1297,6 +1297,7 @@ nav .profile-details i{
   .sidebar.active ~ .home-section nav .profile-details{
     /* display: none; */
   }
+  
 }
 
 .bx{
@@ -1324,6 +1325,9 @@ iframe {
     padding-top: 26px;
 }
 
+.scheduler.dashboard.active {
+  top: 84px;
+}
 
 .calendar-box{
   height: 100% !important;
@@ -1338,9 +1342,7 @@ iframe {
   height: 280% !important;
 }
 
-.scheduler.dashboard.active {
-  top: 84px;
-}
+
 
 i.bx.bx-chevron-up.profile-arrow.active {
     transform: rotate(180deg);
