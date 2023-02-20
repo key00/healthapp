@@ -159,6 +159,41 @@ nav .sidebar-button i{
   font-size: 35px;
   margin-right: 10px;
 }
+
+.search-box{
+  position: relative;
+  text-align: center;
+  height: 50px;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 20px;
+}
+.search-box input{
+  height: 100%;
+  /* width: 100%; */
+  outline: none;
+  background: #fff;
+  border: 2px solid #EFEEF1;
+  border-radius: 6px;
+  font-size: 18px;
+  padding: 0 15px;
+}
+.search-box .bx-search{
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  background: #2697FF;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 4px;
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+  transition: all 0.4 ease;
+}
+
 .home-section nav .search-box{
   position: relative;
   height: 50px;
@@ -176,6 +211,7 @@ nav .search-box input{
   font-size: 18px;
   padding: 0 15px;
 }
+
 nav .search-box .bx-search{
   position: absolute;
   height: 40px;
@@ -220,6 +256,46 @@ nav .profile-details i{
   color: #333;
 }
 
+.doc-img {
+	border-radius: 100%;
+	overflow: hidden;
+	-webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;	
+  margin: 0 auto;		
+  border: 5px solid #50597b;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.doc-box{
+  background: #fff;
+  /* width: 80%; */
+  padding: 15px 28px;
+  margin: 14px 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+.doc-box .box-topic{
+  font-size: 20px;
+  font-weight: 500;
+}
+.patient-box{
+  background: #fff;
+  width: 80%;
+  padding: 15px 28px;
+  margin: 14px auto;
+  border-radius: 12px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.patient-box .box-topic{
+  font-size: 20px;
+  font-weight: 400;
+}
 .box-content .overview-boxes{
   display: flex;
   justify-content: space-evenly;
@@ -1309,7 +1385,7 @@ nav .profile-details i{
     visibility: visible;
     position: absolute;
     width: 100%;
-    top: 10.5%;
+    top: 5%;
     height: calc(100% - 90px);
 }
 
@@ -1322,10 +1398,10 @@ iframe {
 }
 
 .box-content.dashboard.active {
-    padding-top: 26px;
+    /* padding-top: 26px; */
 }
 
-.scheduler.dashboard.active {
+.schedule.dashboard.active {
   top: 84px;
 }
 
