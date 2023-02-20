@@ -116,16 +116,9 @@
 
        
         <div class="box-content main dashboard active">
-          <div class="doc-box">
-            <div class="right-side">
-              <div class="doc-img"><img src="" alt=""></div>
-              <div class="box-topic">Dr Smith Wright</div>
-              <p class="text">Orthopedic Specialist</p>
-            </div>
-          </div>
-          <div
-            class="overview-boxes">
-          
+          <div class="overview-boxes">
+            
+            
             <div class="box">
               <div class="right-side">
                 <div class="box-topic">Total Appointments</div>
@@ -137,6 +130,7 @@
               </div>
               <i class="fas fa-calendar cart" aria-hidden="true"></i>
             </div>
+
             <div class="box">
               <div class="right-side">
                 <div class="box-topic">Total Patients</div>
@@ -148,7 +142,8 @@
               </div>
               <i class="fas fa-person cart two" aria-hidden="true"></i>
             </div>
-            <div class="box">
+
+            <!-- <div class="box">
               <div class="right-side">
                 <div class="box-topic">Total Staff</div>
                 <div class="number">246</div>
@@ -159,6 +154,7 @@
               </div>
               <i class="fas fa-user-tie cart three" aria-hidden="true"></i>
             </div>
+
             <div class="box">
               <div class="right-side">
                 <div class="box-topic">Total Beds</div>
@@ -169,6 +165,13 @@
                 </div>
               </div>
               <i class="fas fa-bed cart four" aria-hidden="true"></i>
+            </div> -->
+          </div>
+          <div class="doc-box">
+            <div class="right-side">
+              <div class="doc-img"><img src="" alt=""></div>
+              <div class="box-topic">Dr Smith Wright</div>
+              <p class="text">Orthopedic Specialist</p>
             </div>
           </div>
         </div>
@@ -264,12 +267,20 @@
           
         </div>
 
-        <div class="box-content patient dashboard">
+        <div class="box-content patient dashboard ">
 
           <div class="search-box">
-            <input type="text" placeholder="First name" />
-            <input type="text" placeholder="Last name" />
-            <i class="bx bx-search"></i>
+            <form action="data.php" method="get">
+              <input type="text" name="pat_name" placeholder="Patient name" />
+              <button type="submit"><i class="bx bx-search"></i></button>
+            </form>
+          </div>
+
+          <div class="patient-box">
+            <div class="box-topic name"></div>
+            <p class="text"> Age: <span class="age"></span></p>
+            <p class="text"> Date of Birth: <span class="dob"></span></p>
+            <p class="text"> Address: <span class="add"></span></p>
           </div>
           <div class="overview-boxes">     
             <div class="box">
