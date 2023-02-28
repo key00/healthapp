@@ -36,5 +36,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
 
 // Close the MySQL connection
 mysqli_close($conn);
-
-?>

@@ -159,7 +159,6 @@ nav .sidebar-button i{
   font-size: 35px;
   margin-right: 10px;
 }
-
 .search-box{
   position: relative;
   height: 50px;
@@ -167,7 +166,7 @@ nav .sidebar-button i{
   width: 100%;
   margin: 0 20px;
 }
-.search-box form input{
+.search-box select{
   height: 50px;
   /* width: 100%; */
   outline: none;
@@ -177,7 +176,7 @@ nav .sidebar-button i{
   font-size: 18px;
   padding: 0 15px;
 }
-.search-box form i.bx-search{
+.search-box i.bx-search{
   position: absolute;
   height: 40px;
   width: 40px;
@@ -267,6 +266,7 @@ nav .profile-details i{
   height: 150px;
   margin-bottom: 10px;
 }
+
 
 .doc-box{
   background: #fff;
