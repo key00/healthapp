@@ -50,6 +50,9 @@ function view() {
           if ($(this).hasClass("helpline")) {
             $(".helpline.dashboard").addClass("active");
           }
+          if ($(this).hasClass("location")) {
+            $(".location.dashboard").addClass("active");
+          }
         }
       }
     });

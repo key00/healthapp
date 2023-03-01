@@ -8,7 +8,7 @@ var patID = "";
 
     $.ajax({
       type: "POST",
-      url: "http://localhost:8012/healthapp/dashboard/doctor/data.php",
+      url: "http://localhost:8012/healthapp/dashboard/doctor/patient_data.php",
       data: { searchName: searchName },
       crossDomain: true,
       dataType: "json",

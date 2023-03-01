@@ -2,33 +2,37 @@
 
 // Connect to the MySQL database
 include("../../includes/conn.php");
-
 if (mysqli_connect_errno()) {
     die("Failed to connect to MySQL: " . mysqli_connect_error());
 }
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
-    $searchName = mysqli_real_escape_string($conn, $_POST['searchName']);
+// Check if the request method is GET
+if ($_SERVER['REQUEST_METHOD'] === 'GET') {
+    // Get the user and token from the request
+    //extract($_GET);
+    $user = mysqli_real_escape_string($conn, $_GET['user']);
+    $token = mysqli_real_escape_string($conn, $_GET['token']);
 
-
-    $query = "SELECT * FROM patients WHERE Name = '$searchName'";
+    // Check if the token matches the user's stored token
+    $query = "SELECT * FROM doctors WHERE user = '$user'"; // AND token = '$token'";
     $result = mysqli_query($conn, $query);
     if (mysqli_num_rows($result) == 0) {
-
-        $response = array('message' => 'No patient in database. Try to another name.');
+        // Token does not match, return an error message
+        $response = array('message' => 'Token does not match. Try to Login Again.');
     } else {
-        $query = "SELECT * FROM patients WHERE Name = '$searchName'";
+        // Token matches, get the user's data from the database
+        $query = "SELECT * FROM doctor WHERE user = '$user'";
         $result = mysqli_query($conn, $query);
-        $patient = mysqli_fetch_assoc($result);
+        $doctor = mysqli_fetch_assoc($result);
 
-        $response = array('patient' => array($patient));
+        // Return the patient data in the response
+        $response = array('doctor' => array($doctor));
     }
 
     // Set the response header to JSON and echo the response
     header('Content-Type: application/json');
     echo json_encode($response);
-} else echo "searchName failed";
-
+}
 
 // Close the MySQL connection
 mysqli_close($conn);

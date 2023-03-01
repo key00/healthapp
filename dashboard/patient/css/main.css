@@ -1518,7 +1518,30 @@ flex-direction: row;
   display: none;
 }
 
+.location.dashboard{
+  display: none;
 
+}
+
+.location.dashboard.active{
+  top: 64px;
+  display: block;
+  margin-bottom: 20px;
+}
+.map {
+  flex: 1;
+  background: #f0f0f0;
+}
+
+.info {
+  padding: 1rem;
+  margin: 0;
+}
+
+.info.error {
+  color: #fff;
+  background: #dc3545;
+}
 
 span.app-version {
     position: fixed;
@@ -1631,5 +1654,5 @@ span.app-version {
 
 
 .map {
-    height: 252px;
+    height: 100%;
 }
